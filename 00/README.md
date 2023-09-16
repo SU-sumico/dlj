@@ -36,6 +36,6 @@ page 12
 -
 page 13
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/092a75ea-4ad5-4162-9021-502b13e4e1df)
-
+-
 
 
