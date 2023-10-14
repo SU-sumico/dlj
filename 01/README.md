@@ -5,7 +5,7 @@ page 2
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/eb3e6e97-cfbd-4b08-bd48-2bede9aa329c)
 -
 page 3
-![image](https://github.com/SU-sumico/dlj/assets/130117169/6432112b-8402-4f24-bb33-8a8cdf8f2162)
+![image](https://github.com/SU-sumico/dlj/assets/130117169/1ee4734d-222d-4a78-b859-b2dce198d59d)
 -
 page 4
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/d59cb6a6-aa91-4ea6-a258-a196b67d306f)
