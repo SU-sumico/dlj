@@ -7,3 +7,4 @@
 * 05: セマンティックセグメンテーション 
 * 最適解の質問に対する回答はフォルダ00の10ページを参照してください。
 * データの読み込み：![image](https://github.com/SU-sumico/dlj/assets/130117169/9e4d132e-3b9b-4f44-8c3f-ac2a9b132342)
+* Output Shape: モデルのアーキテクチャ: https://www.tensorflow.org/tutorials/images/intro_to_cnns?hl=ja
