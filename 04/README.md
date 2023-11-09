@@ -11,6 +11,6 @@ page 4
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/1fb307df-37ca-43d7-90bd-570f83ecb6c5)
 -
 page 5
-![image](https://github.com/SU-sumico/dlj/assets/130117169/005167f0-fd25-4ad1-8419-ecfae75c489a)
+![image](https://github.com/SU-sumico/dlj/assets/130117169/f5b8499a-2338-4777-9a15-5f77bda52fab)
 -
 
