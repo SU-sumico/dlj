@@ -26,12 +26,15 @@ page 9
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/f880b1f2-9b26-40e5-88de-daa871a92712)
 ---
 page 10
-![image](https://github.com/SU-sumico/dlj/assets/130117169/f62fdbf2-0ee7-419c-8348-0be4c80dd3ab)
+![image](https://github.com/SU-sumico/dlj/assets/130117169/f3ecc500-6f91-4df3-9042-41be97f44543)
 ---
 page 11
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/5c7f3eea-e13c-47ff-aab3-eb89eebf82f9)
 ---
 page 12
+![image](https://github.com/SU-sumico/dlj/assets/130117169/91e17c09-6de1-41dc-b918-c129252b1478)
+---
+page 13
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/52c80b08-fa8d-4dfc-8778-e59076c717ab)
 ---
 
