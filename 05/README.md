@@ -32,7 +32,7 @@ page 11
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/5c7f3eea-e13c-47ff-aab3-eb89eebf82f9)
 ---
 page 12
-![image](https://github.com/SU-sumico/dlj/assets/130117169/91e17c09-6de1-41dc-b918-c129252b1478)
+![image](https://github.com/SU-sumico/dlj/assets/130117169/f91bac55-9d73-428d-ab39-15b0f416ea1a)
 ---
 page 13
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/52c80b08-fa8d-4dfc-8778-e59076c717ab)
