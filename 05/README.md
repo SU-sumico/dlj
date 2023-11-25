@@ -8,7 +8,7 @@ page 3
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/7925361b-ac01-46e7-92c3-f9990325085d)
 ---
 page 4
-![image](https://github.com/SU-sumico/dlj/assets/130117169/9f252b7c-16e2-423c-a398-7048108b01aa)
+![image](https://github.com/SU-sumico/dlj/assets/130117169/fc90067c-59a5-46a4-81f0-8e01a34b6e4e)
 ---
 page 5
 ![image](https://github.com/SU-sumico/dlj/assets/130117169/4a6297b4-551a-4b5a-8730-0819ea581c29)
