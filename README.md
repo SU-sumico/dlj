@@ -10,3 +10,5 @@
 参考：https://jp.mathworks.com/help/deeplearning/ug/checkpoint-saves-during-neural-network-training.html
 
 参考：2_cnn_cifar10.ipynb
+
+* 07: 深層学習のアルゴリズムには、畳み込みニューラルネットワーク（CNN）、リカレントニューラルネットワーク（RNN：recurrent neural network）、
